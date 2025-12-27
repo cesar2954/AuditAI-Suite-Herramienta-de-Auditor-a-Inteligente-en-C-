@@ -26,4 +26,4 @@ Implementa **Regresión Lineal** para proyectar el flujo de caja y tendencias de
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/AuditAI-Suite.git](https://github.com/tu-usuario/AuditAI-Suite.git)
+   git clone [https://github.com/cesar2954/AuditAI-Suite.git](https://github.com/cesar2954/AuditAI-Suite.git)
