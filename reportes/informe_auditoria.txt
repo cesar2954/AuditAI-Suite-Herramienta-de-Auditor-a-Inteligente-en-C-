@@ -1,0 +1,1005 @@
+==========================================
+      INFORME DE CONCILIACION BANCARIA    
+==========================================
+
+[!] DIFERENCIA: ID 1 (ERP: $2238.68 | Banco: $2027.61)
+[!] DIFERENCIA: ID 6 (ERP: $1575.49 | Banco: $908.243)
+[!] DIFERENCIA: ID 11 (ERP: $810.639 | Banco: $1537.24)
+[!] DIFERENCIA: ID 16 (ERP: $1241.24 | Banco: $2600.33)
+[!] DIFERENCIA: ID 21 (ERP: $1755.79 | Banco: $534.577)
+[!] DIFERENCIA: ID 26 (ERP: $1511.76 | Banco: $2737.12)
+[!] DIFERENCIA: ID 31 (ERP: $1912.48 | Banco: $1187.6)
+[!] DIFERENCIA: ID 36 (ERP: $1888.96 | Banco: $695.988)
+[!] DIFERENCIA: ID 41 (ERP: $2571.75 | Banco: $573.389)
+[!] DIFERENCIA: ID 46 (ERP: $1781.69 | Banco: $749.519)
+[!] DIFERENCIA: ID 51 (ERP: $2565.71 | Banco: $1204.47)
+[!] DIFERENCIA: ID 56 (ERP: $2932.34 | Banco: $957.545)
+[!] DIFERENCIA: ID 61 (ERP: $1347.18 | Banco: $501.234)
+[!] DIFERENCIA: ID 66 (ERP: $1610.18 | Banco: $1817.54)
+[!] DIFERENCIA: ID 71 (ERP: $2145.07 | Banco: $1327.01)
+[!] DIFERENCIA: ID 76 (ERP: $838.113 | Banco: $2348.89)
+[!] DIFERENCIA: ID 81 (ERP: $1498.71 | Banco: $2034.57)
+[!] DIFERENCIA: ID 86 (ERP: $525.759 | Banco: $740.267)
+[!] DIFERENCIA: ID 91 (ERP: $1138.68 | Banco: $1019.21)
+[!] DIFERENCIA: ID 96 (ERP: $2208.85 | Banco: $2433.16)
+[!] DIFERENCIA: ID 101 (ERP: $714.531 | Banco: $621.122)
+[!] DIFERENCIA: ID 106 (ERP: $1714.37 | Banco: $1106.56)
+[!] DIFERENCIA: ID 111 (ERP: $2964.35 | Banco: $1420.19)
+[!] DIFERENCIA: ID 116 (ERP: $2661.83 | Banco: $1099.98)
+[!] DIFERENCIA: ID 121 (ERP: $979.323 | Banco: $2244.07)
+[!] DIFERENCIA: ID 126 (ERP: $2387.94 | Banco: $2145.36)
+[!] DIFERENCIA: ID 131 (ERP: $2348.02 | Banco: $828.34)
+[!] DIFERENCIA: ID 136 (ERP: $2296.91 | Banco: $2523.61)
+[!] DIFERENCIA: ID 141 (ERP: $1595.96 | Banco: $1645.38)
+[!] DIFERENCIA: ID 146 (ERP: $985.915 | Banco: $2129.34)
+[!] DIFERENCIA: ID 151 (ERP: $1381.06 | Banco: $1369.13)
+[!] DIFERENCIA: ID 156 (ERP: $1217.64 | Banco: $2913.82)
+[!] DIFERENCIA: ID 161 (ERP: $1098.63 | Banco: $2457.24)
+[!] DIFERENCIA: ID 166 (ERP: $824.897 | Banco: $884.347)
+[!] DIFERENCIA: ID 171 (ERP: $923.176 | Banco: $1495.06)
+[!] DIFERENCIA: ID 176 (ERP: $684.897 | Banco: $1680.95)
+[!] DIFERENCIA: ID 181 (ERP: $2763.47 | Banco: $1840.71)
+[!] DIFERENCIA: ID 186 (ERP: $2165.95 | Banco: $1924.28)
+[!] DIFERENCIA: ID 191 (ERP: $1324.55 | Banco: $683.906)
+[!] DIFERENCIA: ID 196 (ERP: $1215.07 | Banco: $1400.24)
+[!] DIFERENCIA: ID 201 (ERP: $1926.68 | Banco: $699.097)
+[!] DIFERENCIA: ID 206 (ERP: $2488.87 | Banco: $2200.58)
+[!] DIFERENCIA: ID 211 (ERP: $1485.16 | Banco: $2036.09)
+[!] DIFERENCIA: ID 216 (ERP: $2890.56 | Banco: $978.92)
+[!] DIFERENCIA: ID 221 (ERP: $1982.15 | Banco: $1712.52)
+[!] DIFERENCIA: ID 226 (ERP: $609.756 | Banco: $1687.77)
+[!] DIFERENCIA: ID 231 (ERP: $1134.75 | Banco: $2978.94)
+[!] DIFERENCIA: ID 236 (ERP: $766.962 | Banco: $2645.84)
+[!] DIFERENCIA: ID 241 (ERP: $952.147 | Banco: $522.56)
+[!] DIFERENCIA: ID 246 (ERP: $1492.1 | Banco: $1167.44)
+[!] DIFERENCIA: ID 251 (ERP: $1397.59 | Banco: $2773.14)
+[!] DIFERENCIA: ID 256 (ERP: $1698.09 | Banco: $1100.72)
+[!] DIFERENCIA: ID 261 (ERP: $783.384 | Banco: $685.243)
+[!] DIFERENCIA: ID 266 (ERP: $1002.67 | Banco: $2317.43)
+[!] DIFERENCIA: ID 271 (ERP: $626.171 | Banco: $2133.98)
+[!] DIFERENCIA: ID 276 (ERP: $891.079 | Banco: $2043.58)
+[!] DIFERENCIA: ID 281 (ERP: $1464.36 | Banco: $2166.28)
+[!] DIFERENCIA: ID 286 (ERP: $1130.27 | Banco: $2781.71)
+[!] DIFERENCIA: ID 291 (ERP: $1568.31 | Banco: $799.192)
+[!] DIFERENCIA: ID 296 (ERP: $556.094 | Banco: $2040.29)
+[!] DIFERENCIA: ID 301 (ERP: $1666.93 | Banco: $2134.78)
+[!] DIFERENCIA: ID 306 (ERP: $1365.58 | Banco: $902.497)
+[!] DIFERENCIA: ID 311 (ERP: $2194.28 | Banco: $2461.46)
+[!] DIFERENCIA: ID 316 (ERP: $1693.15 | Banco: $2757.09)
+[!] DIFERENCIA: ID 321 (ERP: $2252.48 | Banco: $1921.53)
+[!] DIFERENCIA: ID 326 (ERP: $2774.18 | Banco: $1060.01)
+[!] DIFERENCIA: ID 331 (ERP: $705.359 | Banco: $2726.49)
+[!] DIFERENCIA: ID 336 (ERP: $1721.24 | Banco: $1957.55)
+[!] DIFERENCIA: ID 341 (ERP: $1103.12 | Banco: $1246.01)
+[!] DIFERENCIA: ID 346 (ERP: $2956.68 | Banco: $1799.72)
+[!] DIFERENCIA: ID 351 (ERP: $1428.55 | Banco: $1686.86)
+[!] DIFERENCIA: ID 356 (ERP: $2252.06 | Banco: $2739.72)
+[!] DIFERENCIA: ID 361 (ERP: $2158.19 | Banco: $2904)
+[!] DIFERENCIA: ID 366 (ERP: $1713.3 | Banco: $2799.22)
+[!] DIFERENCIA: ID 371 (ERP: $2279.03 | Banco: $2560.19)
+[!] DIFERENCIA: ID 376 (ERP: $2012.47 | Banco: $2895.04)
+[!] DIFERENCIA: ID 381 (ERP: $2743.45 | Banco: $2644.06)
+[!] DIFERENCIA: ID 386 (ERP: $511.731 | Banco: $1580.28)
+[!] DIFERENCIA: ID 391 (ERP: $532.188 | Banco: $1875.8)
+[!] DIFERENCIA: ID 396 (ERP: $727.278 | Banco: $808.209)
+[!] DIFERENCIA: ID 401 (ERP: $1866.02 | Banco: $933.356)
+[!] DIFERENCIA: ID 406 (ERP: $929.431 | Banco: $2755.77)
+[!] DIFERENCIA: ID 411 (ERP: $2602.79 | Banco: $1410.64)
+[!] DIFERENCIA: ID 416 (ERP: $2094.41 | Banco: $1525.99)
+[!] DIFERENCIA: ID 421 (ERP: $2516.89 | Banco: $2401.42)
+[!] DIFERENCIA: ID 426 (ERP: $1981.17 | Banco: $2058.91)
+[!] DIFERENCIA: ID 431 (ERP: $2739.27 | Banco: $677.06)
+[!] DIFERENCIA: ID 436 (ERP: $1134.59 | Banco: $1940.48)
+[!] DIFERENCIA: ID 441 (ERP: $1341.49 | Banco: $924.943)
+[!] DIFERENCIA: ID 446 (ERP: $1751.6 | Banco: $2124)
+[!] DIFERENCIA: ID 451 (ERP: $1352.64 | Banco: $505.688)
+[!] DIFERENCIA: ID 456 (ERP: $2775.61 | Banco: $1232.1)
+[!] DIFERENCIA: ID 461 (ERP: $547.507 | Banco: $1121.41)
+[!] DIFERENCIA: ID 466 (ERP: $2069.25 | Banco: $2380.13)
+[!] DIFERENCIA: ID 471 (ERP: $2560.58 | Banco: $2454.04)
+[!] DIFERENCIA: ID 476 (ERP: $694.593 | Banco: $2767.58)
+[!] DIFERENCIA: ID 481 (ERP: $602.656 | Banco: $531.648)
+[!] DIFERENCIA: ID 486 (ERP: $924.52 | Banco: $1742.67)
+[!] DIFERENCIA: ID 491 (ERP: $2046.11 | Banco: $519.805)
+[!] DIFERENCIA: ID 496 (ERP: $639.239 | Banco: $1698.86)
+[!] DIFERENCIA: ID 501 (ERP: $1556.44 | Banco: $792.242)
+[!] DIFERENCIA: ID 506 (ERP: $1874.5 | Banco: $1286.64)
+[!] DIFERENCIA: ID 511 (ERP: $896.484 | Banco: $2324.17)
+[!] DIFERENCIA: ID 516 (ERP: $640.702 | Banco: $2482.7)
+[!] DIFERENCIA: ID 521 (ERP: $1078.69 | Banco: $2816.08)
+[!] DIFERENCIA: ID 526 (ERP: $911.323 | Banco: $1622.42)
+[!] DIFERENCIA: ID 531 (ERP: $2683.27 | Banco: $1068.16)
+[!] DIFERENCIA: ID 536 (ERP: $2864.48 | Banco: $2469.25)
+[!] DIFERENCIA: ID 541 (ERP: $2333.62 | Banco: $906.673)
+[!] DIFERENCIA: ID 546 (ERP: $2546.56 | Banco: $2175.19)
+[!] DIFERENCIA: ID 551 (ERP: $1337.65 | Banco: $2870.9)
+[!] DIFERENCIA: ID 556 (ERP: $2426.08 | Banco: $1944.79)
+[!] DIFERENCIA: ID 561 (ERP: $795.058 | Banco: $1724.89)
+[!] DIFERENCIA: ID 566 (ERP: $1347.8 | Banco: $1789.17)
+[!] DIFERENCIA: ID 571 (ERP: $2868.88 | Banco: $765.564)
+[!] DIFERENCIA: ID 576 (ERP: $1587.06 | Banco: $2671.19)
+[!] DIFERENCIA: ID 581 (ERP: $1445.53 | Banco: $994.252)
+[!] DIFERENCIA: ID 586 (ERP: $2357.9 | Banco: $798.086)
+[!] DIFERENCIA: ID 591 (ERP: $1302.56 | Banco: $1576.96)
+[!] DIFERENCIA: ID 596 (ERP: $1955.7 | Banco: $617.363)
+[!] DIFERENCIA: ID 601 (ERP: $2191.68 | Banco: $1919.44)
+[!] DIFERENCIA: ID 606 (ERP: $2575.63 | Banco: $1351.78)
+[!] DIFERENCIA: ID 611 (ERP: $1340.51 | Banco: $2077.26)
+[!] DIFERENCIA: ID 616 (ERP: $1597.48 | Banco: $1849.53)
+[!] DIFERENCIA: ID 621 (ERP: $990.48 | Banco: $2046.46)
+[!] DIFERENCIA: ID 626 (ERP: $2209.33 | Banco: $1854.19)
+[!] DIFERENCIA: ID 631 (ERP: $2466.78 | Banco: $810.742)
+[!] DIFERENCIA: ID 636 (ERP: $569.447 | Banco: $900.518)
+[!] DIFERENCIA: ID 641 (ERP: $1486.85 | Banco: $1264.06)
+[!] DIFERENCIA: ID 646 (ERP: $648.152 | Banco: $1195.7)
+[!] DIFERENCIA: ID 651 (ERP: $832.079 | Banco: $1634.15)
+[!] DIFERENCIA: ID 656 (ERP: $2872.31 | Banco: $1336.68)
+[!] DIFERENCIA: ID 661 (ERP: $1853.98 | Banco: $2466.75)
+[!] DIFERENCIA: ID 666 (ERP: $1919.21 | Banco: $2290.72)
+[!] DIFERENCIA: ID 671 (ERP: $2387.37 | Banco: $724.561)
+[!] DIFERENCIA: ID 676 (ERP: $2841.32 | Banco: $1720.06)
+[!] DIFERENCIA: ID 681 (ERP: $2362.86 | Banco: $1204.09)
+[!] DIFERENCIA: ID 686 (ERP: $2201.86 | Banco: $718.294)
+[!] DIFERENCIA: ID 691 (ERP: $854.284 | Banco: $2089.03)
+[!] DIFERENCIA: ID 696 (ERP: $681.537 | Banco: $735.905)
+[!] DIFERENCIA: ID 701 (ERP: $2428.78 | Banco: $1858.84)
+[!] DIFERENCIA: ID 706 (ERP: $1584.5 | Banco: $937.384)
+[!] DIFERENCIA: ID 711 (ERP: $2409.3 | Banco: $2625.14)
+[!] DIFERENCIA: ID 716 (ERP: $1013.77 | Banco: $2000.16)
+[!] DIFERENCIA: ID 721 (ERP: $1702.24 | Banco: $1975.96)
+[!] DIFERENCIA: ID 726 (ERP: $2042.85 | Banco: $871.679)
+[!] DIFERENCIA: ID 731 (ERP: $2296.07 | Banco: $2649.66)
+[!] DIFERENCIA: ID 736 (ERP: $1299.75 | Banco: $1244.61)
+[!] DIFERENCIA: ID 741 (ERP: $1914.9 | Banco: $2793.1)
+[!] DIFERENCIA: ID 746 (ERP: $1597.98 | Banco: $1164.52)
+[!] DIFERENCIA: ID 751 (ERP: $1518.47 | Banco: $2909.37)
+[!] DIFERENCIA: ID 756 (ERP: $2478.09 | Banco: $765.004)
+[!] DIFERENCIA: ID 761 (ERP: $2161.9 | Banco: $2536.26)
+[!] DIFERENCIA: ID 766 (ERP: $2779.05 | Banco: $1310.1)
+[!] DIFERENCIA: ID 771 (ERP: $1293.78 | Banco: $2148.23)
+[!] DIFERENCIA: ID 776 (ERP: $2947.33 | Banco: $1492.16)
+[!] DIFERENCIA: ID 781 (ERP: $1362.67 | Banco: $972.711)
+[!] DIFERENCIA: ID 786 (ERP: $1281.15 | Banco: $1896.45)
+[!] DIFERENCIA: ID 791 (ERP: $990.591 | Banco: $1596.4)
+[!] DIFERENCIA: ID 796 (ERP: $1834.36 | Banco: $2765.72)
+[!] DIFERENCIA: ID 801 (ERP: $873.465 | Banco: $1410.84)
+[!] DIFERENCIA: ID 806 (ERP: $1052.58 | Banco: $671.725)
+[!] DIFERENCIA: ID 811 (ERP: $636.526 | Banco: $1740.08)
+[!] DIFERENCIA: ID 816 (ERP: $2740.51 | Banco: $2313.74)
+[!] DIFERENCIA: ID 821 (ERP: $1435.03 | Banco: $1658.78)
+[!] DIFERENCIA: ID 826 (ERP: $1991.5 | Banco: $2771.39)
+[!] DIFERENCIA: ID 831 (ERP: $1877.8 | Banco: $2794.47)
+[!] DIFERENCIA: ID 836 (ERP: $2452.39 | Banco: $2498.61)
+[!] DIFERENCIA: ID 841 (ERP: $980.596 | Banco: $2717.88)
+[!] DIFERENCIA: ID 846 (ERP: $651.255 | Banco: $1002.89)
+[!] DIFERENCIA: ID 851 (ERP: $1582.59 | Banco: $1599.03)
+[!] DIFERENCIA: ID 856 (ERP: $2741.51 | Banco: $701.504)
+[!] DIFERENCIA: ID 861 (ERP: $2642.74 | Banco: $1999.52)
+[!] DIFERENCIA: ID 866 (ERP: $2175.54 | Banco: $2526.75)
+[!] DIFERENCIA: ID 871 (ERP: $1697.98 | Banco: $2486.55)
+[!] DIFERENCIA: ID 876 (ERP: $2337.49 | Banco: $1571.46)
+[!] DIFERENCIA: ID 881 (ERP: $1970.7 | Banco: $2904.82)
+[!] DIFERENCIA: ID 886 (ERP: $1221.61 | Banco: $1934.81)
+[!] DIFERENCIA: ID 891 (ERP: $1818.86 | Banco: $1711.81)
+[!] DIFERENCIA: ID 896 (ERP: $1269.03 | Banco: $2177.61)
+[!] DIFERENCIA: ID 901 (ERP: $2725.45 | Banco: $1838.88)
+[!] DIFERENCIA: ID 906 (ERP: $1144.27 | Banco: $977.475)
+[!] DIFERENCIA: ID 911 (ERP: $885.748 | Banco: $778.616)
+[!] DIFERENCIA: ID 916 (ERP: $2753.09 | Banco: $2654.03)
+[!] DIFERENCIA: ID 921 (ERP: $1462.36 | Banco: $2866.9)
+[!] DIFERENCIA: ID 926 (ERP: $2100.52 | Banco: $1332.65)
+[!] DIFERENCIA: ID 931 (ERP: $585.028 | Banco: $2528.04)
+[!] DIFERENCIA: ID 936 (ERP: $2163.02 | Banco: $2523.97)
+[!] DIFERENCIA: ID 941 (ERP: $2812.82 | Banco: $1597.59)
+[!] DIFERENCIA: ID 946 (ERP: $2144.4 | Banco: $1264.58)
+[!] DIFERENCIA: ID 951 (ERP: $1872.17 | Banco: $2187.68)
+[!] DIFERENCIA: ID 956 (ERP: $671.632 | Banco: $1740.88)
+[!] DIFERENCIA: ID 961 (ERP: $1614.43 | Banco: $1523.62)
+[!] DIFERENCIA: ID 966 (ERP: $1051.79 | Banco: $2600.47)
+[!] DIFERENCIA: ID 971 (ERP: $2300.14 | Banco: $1177.24)
+[!] DIFERENCIA: ID 976 (ERP: $886.57 | Banco: $2540.01)
+[!] DIFERENCIA: ID 981 (ERP: $1146.28 | Banco: $1239.84)
+[!] DIFERENCIA: ID 986 (ERP: $2177.2 | Banco: $2619.7)
+[!] DIFERENCIA: ID 991 (ERP: $2428.93 | Banco: $2149.67)
+[!] DIFERENCIA: ID 996 (ERP: $2769.64 | Banco: $1377.84)
+[?] SOLO EN BANCO: ID 99999 ($45) - Pendiente de registro ERP
+[?] SOLO EN ERP: ID 997 ($971.113) - No aparece en extracto
+[?] SOLO EN ERP: ID 994 ($2566.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 988 ($1308.22) - No aparece en extracto
+[?] SOLO EN ERP: ID 987 ($1921.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 980 ($2887.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 979 ($2212.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 973 ($923.728) - No aparece en extracto
+[?] SOLO EN ERP: ID 970 ($2222.26) - No aparece en extracto
+[?] SOLO EN ERP: ID 969 ($2342.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 967 ($2623.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 964 ($1936.78) - No aparece en extracto
+[?] SOLO EN ERP: ID 960 ($1645.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 959 ($1831.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 958 ($2697.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 955 ($2904.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 953 ($2290.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 952 ($1856.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 949 ($2011.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 947 ($1008.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 945 ($2542.19) - No aparece en extracto
+[?] SOLO EN ERP: ID 943 ($1572.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 942 ($537.635) - No aparece en extracto
+[?] SOLO EN ERP: ID 938 ($2576.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 934 ($1764.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 932 ($2993.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 928 ($737.826) - No aparece en extracto
+[?] SOLO EN ERP: ID 927 ($2783.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 919 ($2202.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 918 ($1437.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 915 ($1834.82) - No aparece en extracto
+[?] SOLO EN ERP: ID 914 ($2752.56) - No aparece en extracto
+[?] SOLO EN ERP: ID 913 ($850.729) - No aparece en extracto
+[?] SOLO EN ERP: ID 912 ($2454.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 907 ($943.374) - No aparece en extracto
+[?] SOLO EN ERP: ID 905 ($2292.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 904 ($2740.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 900 ($87762.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 957 ($2326.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 897 ($2198.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 894 ($2563.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 893 ($1105.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 890 ($1494.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 887 ($2243.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 885 ($2586.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 888 ($1301.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 883 ($1500.85) - No aparece en extracto
+[?] SOLO EN ERP: ID 882 ($1596.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 880 ($2406.84) - No aparece en extracto
+[?] SOLO EN ERP: ID 878 ($771.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 874 ($855.129) - No aparece en extracto
+[?] SOLO EN ERP: ID 933 ($1582.33) - No aparece en extracto
+[?] SOLO EN ERP: ID 869 ($2266.87) - No aparece en extracto
+[?] SOLO EN ERP: ID 868 ($1777.95) - No aparece en extracto
+[?] SOLO EN ERP: ID 999 ($2697.15) - No aparece en extracto
+[?] SOLO EN ERP: ID 863 ($1402.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 860 ($2366.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 855 ($553.977) - No aparece en extracto
+[?] SOLO EN ERP: ID 854 ($1980.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 864 ($2901.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 847 ($2244.3) - No aparece en extracto
+[?] SOLO EN ERP: ID 835 ($972.492) - No aparece en extracto
+[?] SOLO EN ERP: ID 833 ($1191.85) - No aparece en extracto
+[?] SOLO EN ERP: ID 832 ($2918.7) - No aparece en extracto
+[?] SOLO EN ERP: ID 830 ($1225.09) - No aparece en extracto
+[?] SOLO EN ERP: ID 827 ($2967.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 823 ($2124.15) - No aparece en extracto
+[?] SOLO EN ERP: ID 815 ($696.482) - No aparece en extracto
+[?] SOLO EN ERP: ID 813 ($2787.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 808 ($1165.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 807 ($2060.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 805 ($1195.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 992 ($2908.42) - No aparece en extracto
+[?] SOLO EN ERP: ID 965 ($2907.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 804 ($1250.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 803 ($2031.05) - No aparece en extracto
+[?] SOLO EN ERP: ID 802 ($1297.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 993 ($1681.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 800 ($57787.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 799 ($2093.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 797 ($1531.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 787 ($919.948) - No aparece en extracto
+[?] SOLO EN ERP: ID 902 ($1725.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 785 ($1070.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 782 ($1608.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 780 ($2975.93) - No aparece en extracto
+[?] SOLO EN ERP: ID 773 ($581.223) - No aparece en extracto
+[?] SOLO EN ERP: ID 772 ($2221.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 767 ($878.463) - No aparece en extracto
+[?] SOLO EN ERP: ID 764 ($2544.27) - No aparece en extracto
+[?] SOLO EN ERP: ID 758 ($2076.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 757 ($2601.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 983 ($1011.97) - No aparece en extracto
+[?] SOLO EN ERP: ID 935 ($1075.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 820 ($2120.54) - No aparece en extracto
+[?] SOLO EN ERP: ID 755 ($2374.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 753 ($1412.97) - No aparece en extracto
+[?] SOLO EN ERP: ID 752 ($1264.39) - No aparece en extracto
+[?] SOLO EN ERP: ID 750 ($609.886) - No aparece en extracto
+[?] SOLO EN ERP: ID 745 ($532.747) - No aparece en extracto
+[?] SOLO EN ERP: ID 870 ($1551.82) - No aparece en extracto
+[?] SOLO EN ERP: ID 743 ($1189.28) - No aparece en extracto
+[?] SOLO EN ERP: ID 738 ($723.719) - No aparece en extracto
+[?] SOLO EN ERP: ID 735 ($2536.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 734 ($1738.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 733 ($2138.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 730 ($666.576) - No aparece en extracto
+[?] SOLO EN ERP: ID 728 ($756.72) - No aparece en extracto
+[?] SOLO EN ERP: ID 724 ($681.893) - No aparece en extracto
+[?] SOLO EN ERP: ID 723 ($561.941) - No aparece en extracto
+[?] SOLO EN ERP: ID 722 ($2394.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 720 ($1509.1) - No aparece en extracto
+[?] SOLO EN ERP: ID 968 ($966.375) - No aparece en extracto
+[?] SOLO EN ERP: ID 715 ($1565.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 714 ($2062.22) - No aparece en extracto
+[?] SOLO EN ERP: ID 713 ($1071.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 710 ($2825.62) - No aparece en extracto
+[?] SOLO EN ERP: ID 975 ($1499.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 704 ($943.442) - No aparece en extracto
+[?] SOLO EN ERP: ID 703 ($616.946) - No aparece en extracto
+[?] SOLO EN ERP: ID 744 ($1734.76) - No aparece en extracto
+[?] SOLO EN ERP: ID 702 ($2459.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 700 ($65141.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 699 ($885.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 698 ($2188.77) - No aparece en extracto
+[?] SOLO EN ERP: ID 695 ($1493.44) - No aparece en extracto
+[?] SOLO EN ERP: ID 693 ($2398.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 692 ($1113.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 689 ($826.582) - No aparece en extracto
+[?] SOLO EN ERP: ID 948 ($1526.52) - No aparece en extracto
+[?] SOLO EN ERP: ID 687 ($2217.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 685 ($2313.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 683 ($1587.85) - No aparece en extracto
+[?] SOLO EN ERP: ID 682 ($2642.65) - No aparece en extracto
+[?] SOLO EN ERP: ID 680 ($2051.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 817 ($2290.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 678 ($2940.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 963 ($2464.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 677 ($1153.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 889 ($540.499) - No aparece en extracto
+[?] SOLO EN ERP: ID 675 ($2862.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 974 ($1450.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 778 ($2507.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 674 ($2753.77) - No aparece en extracto
+[?] SOLO EN ERP: ID 668 ($574.045) - No aparece en extracto
+[?] SOLO EN ERP: ID 852 ($1705.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 667 ($2749.84) - No aparece en extracto
+[?] SOLO EN ERP: ID 665 ($704.719) - No aparece en extracto
+[?] SOLO EN ERP: ID 884 ($2274.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 762 ($1878.59) - No aparece en extracto
+[?] SOLO EN ERP: ID 663 ($963.126) - No aparece en extracto
+[?] SOLO EN ERP: ID 660 ($2359.66) - No aparece en extracto
+[?] SOLO EN ERP: ID 658 ($2195.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 840 ($2880.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 725 ($2913.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 652 ($1641.67) - No aparece en extracto
+[?] SOLO EN ERP: ID 650 ($1672.38) - No aparece en extracto
+[?] SOLO EN ERP: ID 649 ($1218.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 642 ($1637.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 822 ($1855.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 640 ($1319.05) - No aparece en extracto
+[?] SOLO EN ERP: ID 639 ($1903.22) - No aparece en extracto
+[?] SOLO EN ERP: ID 637 ($1472.91) - No aparece en extracto
+[?] SOLO EN ERP: ID 635 ($1490.68) - No aparece en extracto
+[?] SOLO EN ERP: ID 643 ($1281.56) - No aparece en extracto
+[?] SOLO EN ERP: ID 634 ($1244.36) - No aparece en extracto
+[?] SOLO EN ERP: ID 862 ($778.396) - No aparece en extracto
+[?] SOLO EN ERP: ID 819 ($775.804) - No aparece en extracto
+[?] SOLO EN ERP: ID 760 ($569.95) - No aparece en extracto
+[?] SOLO EN ERP: ID 717 ($2040.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 628 ($2635.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 794 ($648.164) - No aparece en extracto
+[?] SOLO EN ERP: ID 627 ($610.279) - No aparece en extracto
+[?] SOLO EN ERP: ID 622 ($2601.33) - No aparece en extracto
+[?] SOLO EN ERP: ID 620 ($1502.28) - No aparece en extracto
+[?] SOLO EN ERP: ID 617 ($2529.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 844 ($1722.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 615 ($943.236) - No aparece en extracto
+[?] SOLO EN ERP: ID 614 ($588.301) - No aparece en extracto
+[?] SOLO EN ERP: ID 985 ($2911.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 909 ($1946.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 609 ($1442.82) - No aparece en extracto
+[?] SOLO EN ERP: ID 608 ($2405.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 922 ($1051.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 659 ($1231.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 607 ($2196.89) - No aparece en extracto
+[?] SOLO EN ERP: ID 605 ($556.329) - No aparece en extracto
+[?] SOLO EN ERP: ID 732 ($2219.23) - No aparece en extracto
+[?] SOLO EN ERP: ID 603 ($1091.33) - No aparece en extracto
+[?] SOLO EN ERP: ID 600 ($81995.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 598 ($2718.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 595 ($1661.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 587 ($1445.54) - No aparece en extracto
+[?] SOLO EN ERP: ID 774 ($2334.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 584 ($908.461) - No aparece en extracto
+[?] SOLO EN ERP: ID 588 ($2894.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 580 ($706.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 712 ($805.638) - No aparece en extracto
+[?] SOLO EN ERP: ID 578 ($508.733) - No aparece en extracto
+[?] SOLO EN ERP: ID 848 ($1293.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 577 ($2920.19) - No aparece en extracto
+[?] SOLO EN ERP: ID 575 ($2730.91) - No aparece en extracto
+[?] SOLO EN ERP: ID 573 ($1716.56) - No aparece en extracto
+[?] SOLO EN ERP: ID 572 ($734.258) - No aparece en extracto
+[?] SOLO EN ERP: ID 568 ($1527.21) - No aparece en extracto
+[?] SOLO EN ERP: ID 565 ($882.33) - No aparece en extracto
+[?] SOLO EN ERP: ID 563 ($2606.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 597 ($2830.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 562 ($2064.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 623 ($1524.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 560 ($1265.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 559 ($2495.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 998 ($2092.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 557 ($2634.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 583 ($1014.1) - No aparece en extracto
+[?] SOLO EN ERP: ID 555 ($2620.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 552 ($637.879) - No aparece en extracto
+[?] SOLO EN ERP: ID 792 ($2407.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 550 ($1831.85) - No aparece en extracto
+[?] SOLO EN ERP: ID 567 ($2072.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 549 ($791.381) - No aparece en extracto
+[?] SOLO EN ERP: ID 954 ($2752.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 548 ($885.055) - No aparece en extracto
+[?] SOLO EN ERP: ID 547 ($1558.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 545 ($1911.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 542 ($2528.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 254 ($1048.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 672 ($728.788) - No aparece en extracto
+[?] SOLO EN ERP: ID 248 ($1561.05) - No aparece en extracto
+[?] SOLO EN ERP: ID 237 ($2048.93) - No aparece en extracto
+[?] SOLO EN ERP: ID 243 ($1402.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 944 ($1152.72) - No aparece en extracto
+[?] SOLO EN ERP: ID 240 ($1066.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 849 ($524.715) - No aparece en extracto
+[?] SOLO EN ERP: ID 199 ($2139.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 239 ($2531.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 172 ($2655.1) - No aparece en extracto
+[?] SOLO EN ERP: ID 464 ($1595.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 224 ($2979.89) - No aparece en extracto
+[?] SOLO EN ERP: ID 134 ($1309.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 775 ($2630.63) - No aparece en extracto
+[?] SOLO EN ERP: ID 222 ($1508.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 322 ($2130.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 247 ($1132.78) - No aparece en extracto
+[?] SOLO EN ERP: ID 520 ($1572) - No aparece en extracto
+[?] SOLO EN ERP: ID 727 ($819.281) - No aparece en extracto
+[?] SOLO EN ERP: ID 212 ($530.096) - No aparece en extracto
+[?] SOLO EN ERP: ID 910 ($614.401) - No aparece en extracto
+[?] SOLO EN ERP: ID 403 ($851.454) - No aparece en extracto
+[?] SOLO EN ERP: ID 669 ($1658.81) - No aparece en extracto
+[?] SOLO EN ERP: ID 210 ($2126.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 4 ($964.189) - No aparece en extracto
+[?] SOLO EN ERP: ID 492 ($1104.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 209 ($2484.91) - No aparece en extracto
+[?] SOLO EN ERP: ID 962 ($1126.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 203 ($1912.17) - No aparece en extracto
+[?] SOLO EN ERP: ID 518 ($1748.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 950 ($2842.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 252 ($1187.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 175 ($1675.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 859 ($2201.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 197 ($1867.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 192 ($1520.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 899 ($738.495) - No aparece en extracto
+[?] SOLO EN ERP: ID 242 ($626.589) - No aparece en extracto
+[?] SOLO EN ERP: ID 653 ($1217.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 190 ($2463.84) - No aparece en extracto
+[?] SOLO EN ERP: ID 747 ($1079.09) - No aparece en extracto
+[?] SOLO EN ERP: ID 138 ($2909.44) - No aparece en extracto
+[?] SOLO EN ERP: ID 234 ($2400.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 798 ($2246.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 187 ($2185.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 534 ($2531.66) - No aparece en extracto
+[?] SOLO EN ERP: ID 183 ($1233.09) - No aparece en extracto
+[?] SOLO EN ERP: ID 73 ($770.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 455 ($1160.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 872 ($2636.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 763 ($2844.28) - No aparece en extracto
+[?] SOLO EN ERP: ID 533 ($1230.01) - No aparece en extracto
+[?] SOLO EN ERP: ID 920 ($598.089) - No aparece en extracto
+[?] SOLO EN ERP: ID 182 ($1294.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 178 ($697.706) - No aparece en extracto
+[?] SOLO EN ERP: ID 62 ($2501.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 5 ($2539.59) - No aparece en extracto
+[?] SOLO EN ERP: ID 92 ($2454.65) - No aparece en extracto
+[?] SOLO EN ERP: ID 592 ($1928.68) - No aparece en extracto
+[?] SOLO EN ERP: ID 174 ($687.124) - No aparece en extracto
+[?] SOLO EN ERP: ID 790 ($2886.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 168 ($2169.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 167 ($770.145) - No aparece en extracto
+[?] SOLO EN ERP: ID 662 ($1585.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 162 ($1741.84) - No aparece en extracto
+[?] SOLO EN ERP: ID 625 ($2770.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 299 ($2357.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 160 ($2788.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 585 ($2822.23) - No aparece en extracto
+[?] SOLO EN ERP: ID 157 ($1293.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 120 ($1218.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 982 ($2148.46) - No aparece en extracto
+[?] SOLO EN ERP: ID 253 ($1496.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 130 ($791.842) - No aparece en extracto
+[?] SOLO EN ERP: ID 155 ($2060.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 783 ($635.36) - No aparece en extracto
+[?] SOLO EN ERP: ID 154 ($2756.66) - No aparece en extracto
+[?] SOLO EN ERP: ID 385 ($713.449) - No aparece en extracto
+[?] SOLO EN ERP: ID 249 ($935.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 838 ($589.46) - No aparece en extracto
+[?] SOLO EN ERP: ID 150 ($1447.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 208 ($1913.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 149 ($794.923) - No aparece en extracto
+[?] SOLO EN ERP: ID 235 ($2735.76) - No aparece en extracto
+[?] SOLO EN ERP: ID 147 ($1074.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 618 ($2932.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 145 ($2360.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 188 ($741.539) - No aparece en extracto
+[?] SOLO EN ERP: ID 333 ($2825.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 519 ($782.308) - No aparece en extracto
+[?] SOLO EN ERP: ID 144 ($2028.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 25 ($2257.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 310 ($1695.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 132 ($975.475) - No aparece en extracto
+[?] SOLO EN ERP: ID 213 ($1945.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 345 ($1513.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 837 ($1155.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 433 ($1517.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 972 ($1638.59) - No aparece en extracto
+[?] SOLO EN ERP: ID 867 ($2134.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 129 ($2416.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 684 ($2532.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 159 ($1199.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 53 ($1093.78) - No aparece en extracto
+[?] SOLO EN ERP: ID 50 ($1541.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 52 ($1729.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 924 ($800.235) - No aparece en extracto
+[?] SOLO EN ERP: ID 810 ($2553.01) - No aparece en extracto
+[?] SOLO EN ERP: ID 153 ($810.296) - No aparece en extracto
+[?] SOLO EN ERP: ID 37 ($1848.42) - No aparece en extracto
+[?] SOLO EN ERP: ID 83 ($2889.89) - No aparece en extracto
+[?] SOLO EN ERP: ID 238 ($2249.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 49 ($1528.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 850 ($1371.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 218 ($2681.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 9 ($1519.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 265 ($525.538) - No aparece en extracto
+[?] SOLO EN ERP: ID 612 ($2305.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 280 ($1882.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 225 ($2644.74) - No aparece en extracto
+[?] SOLO EN ERP: ID 759 ($2722.83) - No aparece en extracto
+[?] SOLO EN ERP: ID 214 ($787.618) - No aparece en extracto
+[?] SOLO EN ERP: ID 697 ($2674.65) - No aparece en extracto
+[?] SOLO EN ERP: ID 65 ($1332.46) - No aparece en extracto
+[?] SOLO EN ERP: ID 564 ($2491.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 163 ($2410.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 858 ($2444.75) - No aparece en extracto
+[?] SOLO EN ERP: ID 123 ($1007.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 184 ($2273.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 895 ($1512.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 194 ($1046.14) - No aparece en extracto
+[?] SOLO EN ERP: ID 554 ($2846.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 57 ($2373.52) - No aparece en extracto
+[?] SOLO EN ERP: ID 27 ($2141.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 255 ($2819.36) - No aparece en extracto
+[?] SOLO EN ERP: ID 58 ($769.731) - No aparece en extracto
+[?] SOLO EN ERP: ID 10 ($791.788) - No aparece en extracto
+[?] SOLO EN ERP: ID 39 ($2687.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 610 ($2962.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 462 ($1928.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 18 ($2505.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 35 ($1526.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 140 ($852.631) - No aparece en extracto
+[?] SOLO EN ERP: ID 358 ($525.586) - No aparece en extracto
+[?] SOLO EN ERP: ID 198 ($2352.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 857 ($1312.01) - No aparece en extracto
+[?] SOLO EN ERP: ID 108 ($2065.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 363 ($2222.04) - No aparece en extracto
+[?] SOLO EN ERP: ID 818 ($1354.7) - No aparece en extracto
+[?] SOLO EN ERP: ID 29 ($2353.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 412 ($1275.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 55 ($2731.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 795 ($1721.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 22 ($766.127) - No aparece en extracto
+[?] SOLO EN ERP: ID 984 ($1950.68) - No aparece en extracto
+[?] SOLO EN ERP: ID 673 ($2657.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 368 ($2203.54) - No aparece en extracto
+[?] SOLO EN ERP: ID 593 ($2668.04) - No aparece en extracto
+[?] SOLO EN ERP: ID 85 ($2017.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 3 ($702.889) - No aparece en extracto
+[?] SOLO EN ERP: ID 13 ($1388.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 128 ($1569.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 244 ($2620.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 344 ($2638.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 528 ($1302.63) - No aparece en extracto
+[?] SOLO EN ERP: ID 15 ($1632.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 185 ($2209) - No aparece en extracto
+[?] SOLO EN ERP: ID 579 ($1377.59) - No aparece en extracto
+[?] SOLO EN ERP: ID 273 ($1998.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 582 ($855.909) - No aparece en extracto
+[?] SOLO EN ERP: ID 332 ($1613.39) - No aparece en extracto
+[?] SOLO EN ERP: ID 227 ($2612.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 137 ($2119.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 320 ($730.508) - No aparece en extracto
+[?] SOLO EN ERP: ID 79 ($2465.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 113 ($1151.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 502 ($2909.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 177 ($2997.89) - No aparece en extracto
+[?] SOLO EN ERP: ID 99 ($2616.62) - No aparece en extracto
+[?] SOLO EN ERP: ID 485 ($1134.56) - No aparece en extracto
+[?] SOLO EN ERP: ID 754 ($2831.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 30 ($1408.76) - No aparece en extracto
+[?] SOLO EN ERP: ID 903 ($2670.42) - No aparece en extracto
+[?] SOLO EN ERP: ID 814 ($1226.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 169 ($724.825) - No aparece en extracto
+[?] SOLO EN ERP: ID 7 ($896.7) - No aparece en extracto
+[?] SOLO EN ERP: ID 825 ($2562.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 217 ($1984.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 152 ($2271.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 493 ($2435.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 40 ($2549.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 709 ($1154.81) - No aparece en extracto
+[?] SOLO EN ERP: ID 67 ($2941.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 17 ($2320.05) - No aparece en extracto
+[?] SOLO EN ERP: ID 670 ($2876.82) - No aparece en extracto
+[?] SOLO EN ERP: ID 28 ($1252.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 500 ($67635.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 95 ($2614.46) - No aparece en extracto
+[?] SOLO EN ERP: ID 522 ($1131.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 42 ($2275.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 115 ($2424.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 360 ($2296.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 589 ($2923.91) - No aparece en extracto
+[?] SOLO EN ERP: ID 405 ($1782.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 929 ($2918.01) - No aparece en extracto
+[?] SOLO EN ERP: ID 842 ($2752.84) - No aparece en extracto
+[?] SOLO EN ERP: ID 47 ($980.356) - No aparece en extracto
+[?] SOLO EN ERP: ID 74 ($610.732) - No aparece en extracto
+[?] SOLO EN ERP: ID 250 ($528.178) - No aparece en extracto
+[?] SOLO EN ERP: ID 32 ($2468.89) - No aparece en extracto
+[?] SOLO EN ERP: ID 490 ($703.191) - No aparece en extracto
+[?] SOLO EN ERP: ID 143 ($2786.3) - No aparece en extracto
+[?] SOLO EN ERP: ID 453 ($1402.76) - No aparece en extracto
+[?] SOLO EN ERP: ID 34 ($2975.68) - No aparece en extracto
+[?] SOLO EN ERP: ID 655 ($1403.33) - No aparece en extracto
+[?] SOLO EN ERP: ID 117 ($1619.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 930 ($2215.74) - No aparece en extracto
+[?] SOLO EN ERP: ID 278 ($2026.15) - No aparece en extracto
+[?] SOLO EN ERP: ID 923 ($2430.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 809 ($2945.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 339 ($2232.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 105 ($1351.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 630 ($2919.48) - No aparece en extracto
+[?] SOLO EN ERP: ID 467 ($2191.62) - No aparece en extracto
+[?] SOLO EN ERP: ID 879 ($504.308) - No aparece en extracto
+[?] SOLO EN ERP: ID 789 ($1930.72) - No aparece en extracto
+[?] SOLO EN ERP: ID 193 ($664.162) - No aparece en extracto
+[?] SOLO EN ERP: ID 23 ($672.068) - No aparece en extracto
+[?] SOLO EN ERP: ID 373 ($2186.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 24 ($1405.36) - No aparece en extracto
+[?] SOLO EN ERP: ID 977 ($967.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 512 ($871.918) - No aparece en extracto
+[?] SOLO EN ERP: ID 220 ($2159.14) - No aparece en extracto
+[?] SOLO EN ERP: ID 207 ($2692.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 824 ($2849.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 20 ($2646.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 189 ($2965.77) - No aparece en extracto
+[?] SOLO EN ERP: ID 892 ($2546.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 308 ($2723.38) - No aparece en extracto
+[?] SOLO EN ERP: ID 925 ($2879.83) - No aparece en extracto
+[?] SOLO EN ERP: ID 525 ($2385.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 84 ($1510.01) - No aparece en extracto
+[?] SOLO EN ERP: ID 473 ($2353.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 170 ($1859.75) - No aparece en extracto
+[?] SOLO EN ERP: ID 439 ($1399.09) - No aparece en extracto
+[?] SOLO EN ERP: ID 230 ($2346.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 63 ($1105.95) - No aparece en extracto
+[?] SOLO EN ERP: ID 12 ($2813.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 64 ($2049.27) - No aparece en extracto
+[?] SOLO EN ERP: ID 647 ($2820.66) - No aparece en extracto
+[?] SOLO EN ERP: ID 353 ($1448.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 204 ($2613.04) - No aparece en extracto
+[?] SOLO EN ERP: ID 142 ($910.983) - No aparece en extracto
+[?] SOLO EN ERP: ID 718 ($2125.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 307 ($2498.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 205 ($560.136) - No aparece en extracto
+[?] SOLO EN ERP: ID 393 ($1757.3) - No aparece en extracto
+[?] SOLO EN ERP: ID 70 ($1735.09) - No aparece en extracto
+[?] SOLO EN ERP: ID 133 ($2154.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 127 ($2700.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 604 ($1937.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 335 ($2397.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 940 ($504.861) - No aparece en extracto
+[?] SOLO EN ERP: ID 223 ($2922.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 68 ($1301.28) - No aparece en extracto
+[?] SOLO EN ERP: ID 318 ($1359.14) - No aparece en extracto
+[?] SOLO EN ERP: ID 215 ($2041.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 828 ($2783.62) - No aparece en extracto
+[?] SOLO EN ERP: ID 423 ($2533.05) - No aparece en extracto
+[?] SOLO EN ERP: ID 59 ($1567.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 75 ($924.417) - No aparece en extracto
+[?] SOLO EN ERP: ID 327 ($1190.76) - No aparece en extracto
+[?] SOLO EN ERP: ID 415 ($523.042) - No aparece en extracto
+[?] SOLO EN ERP: ID 364 ($1797.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 812 ($1769.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 77 ($2967.04) - No aparece en extracto
+[?] SOLO EN ERP: ID 48 ($860.206) - No aparece en extracto
+[?] SOLO EN ERP: ID 60 ($1867.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 78 ($1803.72) - No aparece en extracto
+[?] SOLO EN ERP: ID 834 ($2142.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 179 ($2424.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 769 ($1882.54) - No aparece en extracto
+[?] SOLO EN ERP: ID 87 ($2175.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 740 ($1536.26) - No aparece en extracto
+[?] SOLO EN ERP: ID 88 ($914.779) - No aparece en extracto
+[?] SOLO EN ERP: ID 263 ($2931.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 8 ($867.942) - No aparece en extracto
+[?] SOLO EN ERP: ID 285 ($2001.95) - No aparece en extracto
+[?] SOLO EN ERP: ID 908 ($575.577) - No aparece en extracto
+[?] SOLO EN ERP: ID 202 ($2746.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 118 ($2365.87) - No aparece en extracto
+[?] SOLO EN ERP: ID 19 ($1900.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 232 ($1696.28) - No aparece en extracto
+[?] SOLO EN ERP: ID 478 ($1415.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 93 ($1921.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 98 ($2569.23) - No aparece en extracto
+[?] SOLO EN ERP: ID 414 ($1091.74) - No aparece en extracto
+[?] SOLO EN ERP: ID 388 ($2913.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 43 ($1533.07) - No aparece en extracto
+[?] SOLO EN ERP: ID 705 ($2793.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 259 ($2883.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 100 ($79920.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 104 ($1143.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 33 ($512.371) - No aparece en extracto
+[?] SOLO EN ERP: ID 329 ($2471.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 537 ($2169.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 107 ($1801.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 347 ($1235.15) - No aparece en extracto
+[?] SOLO EN ERP: ID 477 ($912.368) - No aparece en extracto
+[?] SOLO EN ERP: ID 109 ($2263.7) - No aparece en extracto
+[?] SOLO EN ERP: ID 829 ($856.284) - No aparece en extracto
+[?] SOLO EN ERP: ID 72 ($1584.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 195 ($806.633) - No aparece en extracto
+[?] SOLO EN ERP: ID 110 ($727.298) - No aparece en extracto
+[?] SOLO EN ERP: ID 122 ($2323) - No aparece en extracto
+[?] SOLO EN ERP: ID 447 ($2165.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 112 ($2153.28) - No aparece en extracto
+[?] SOLO EN ERP: ID 540 ($1054.14) - No aparece en extracto
+[?] SOLO EN ERP: ID 69 ($1871.97) - No aparece en extracto
+[?] SOLO EN ERP: ID 468 ($1155.77) - No aparece en extracto
+[?] SOLO EN ERP: ID 404 ($1432.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 479 ($2210.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 694 ($1337.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 114 ($1764.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 270 ($1415.14) - No aparece en extracto
+[?] SOLO EN ERP: ID 707 ($2368.44) - No aparece en extracto
+[?] SOLO EN ERP: ID 119 ($1314.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 284 ($1428.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 258 ($2187.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 379 ($1340.27) - No aparece en extracto
+[?] SOLO EN ERP: ID 654 ($2570.56) - No aparece en extracto
+[?] SOLO EN ERP: ID 295 ($1318.59) - No aparece en extracto
+[?] SOLO EN ERP: ID 989 ($2223.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 94 ($796.774) - No aparece en extracto
+[?] SOLO EN ERP: ID 257 ($718.092) - No aparece en extracto
+[?] SOLO EN ERP: ID 164 ($804.601) - No aparece en extracto
+[?] SOLO EN ERP: ID 260 ($2099.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 648 ($2974.17) - No aparece en extracto
+[?] SOLO EN ERP: ID 158 ($1108.83) - No aparece en extracto
+[?] SOLO EN ERP: ID 2 ($674.457) - No aparece en extracto
+[?] SOLO EN ERP: ID 228 ($754.17) - No aparece en extracto
+[?] SOLO EN ERP: ID 304 ($1284.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 262 ($1106.3) - No aparece en extracto
+[?] SOLO EN ERP: ID 264 ($2687.24) - No aparece en extracto
+[?] SOLO EN ERP: ID 135 ($1917.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 357 ($967.966) - No aparece en extracto
+[?] SOLO EN ERP: ID 342 ($1223.33) - No aparece en extracto
+[?] SOLO EN ERP: ID 1000 ($60504.2) - No aparece en extracto
+[?] SOLO EN ERP: ID 517 ($713.123) - No aparece en extracto
+[?] SOLO EN ERP: ID 269 ($826.807) - No aparece en extracto
+[?] SOLO EN ERP: ID 474 ($2482.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 995 ($1353.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 939 ($1811.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 272 ($1099.39) - No aparece en extracto
+[?] SOLO EN ERP: ID 275 ($1460.26) - No aparece en extracto
+[?] SOLO EN ERP: ID 125 ($2430.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 124 ($1343.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 277 ($766.177) - No aparece en extracto
+[?] SOLO EN ERP: ID 450 ($2182.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 282 ($898.918) - No aparece en extracto
+[?] SOLO EN ERP: ID 267 ($1161.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 917 ($1648.39) - No aparece en extracto
+[?] SOLO EN ERP: ID 359 ($2168.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 448 ($2358.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 165 ($1637.97) - No aparece en extracto
+[?] SOLO EN ERP: ID 287 ($1697.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 288 ($2750.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 638 ($1298.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 289 ($665.206) - No aparece en extracto
+[?] SOLO EN ERP: ID 290 ($1605.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 594 ($1733.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 292 ($2603.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 89 ($708.722) - No aparece en extracto
+[?] SOLO EN ERP: ID 293 ($1755.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 765 ($581.111) - No aparece en extracto
+[?] SOLO EN ERP: ID 294 ($573.694) - No aparece en extracto
+[?] SOLO EN ERP: ID 173 ($1917.84) - No aparece en extracto
+[?] SOLO EN ERP: ID 538 ($828.674) - No aparece en extracto
+[?] SOLO EN ERP: ID 482 ($2544.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 793 ($2621.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 305 ($745.552) - No aparece en extracto
+[?] SOLO EN ERP: ID 268 ($2253.75) - No aparece en extracto
+[?] SOLO EN ERP: ID 432 ($1953.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 90 ($2646.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 369 ($1927.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 898 ($1520.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 523 ($2628.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 312 ($1291.75) - No aparece en extracto
+[?] SOLO EN ERP: ID 314 ($2783.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 524 ($2135.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 103 ($1516.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 315 ($2518.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 748 ($1064.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 317 ($2871.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 319 ($2201.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 877 ($1959.21) - No aparece en extracto
+[?] SOLO EN ERP: ID 397 ($2804.72) - No aparece en extracto
+[?] SOLO EN ERP: ID 853 ($2273.04) - No aparece en extracto
+[?] SOLO EN ERP: ID 619 ($2765.86) - No aparece en extracto
+[?] SOLO EN ERP: ID 148 ($2596.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 480 ($2493.78) - No aparece en extracto
+[?] SOLO EN ERP: ID 323 ($1503.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 657 ($2370.15) - No aparece en extracto
+[?] SOLO EN ERP: ID 324 ($2080.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 325 ($549.189) - No aparece en extracto
+[?] SOLO EN ERP: ID 788 ($2032.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 14 ($2001.3) - No aparece en extracto
+[?] SOLO EN ERP: ID 274 ($1615.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 382 ($828.656) - No aparece en extracto
+[?] SOLO EN ERP: ID 328 ($994.721) - No aparece en extracto
+[?] SOLO EN ERP: ID 97 ($2318.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 784 ($2040.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 777 ($733.552) - No aparece en extracto
+[?] SOLO EN ERP: ID 719 ($1833.93) - No aparece en extracto
+[?] SOLO EN ERP: ID 245 ($1542.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 334 ($1298.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 337 ($552.789) - No aparece en extracto
+[?] SOLO EN ERP: ID 338 ($2431.74) - No aparece en extracto
+[?] SOLO EN ERP: ID 768 ($1372.65) - No aparece en extracto
+[?] SOLO EN ERP: ID 340 ($2161.38) - No aparece en extracto
+[?] SOLO EN ERP: ID 544 ($2662.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 348 ($1924.18) - No aparece en extracto
+[?] SOLO EN ERP: ID 343 ($1877.38) - No aparece en extracto
+[?] SOLO EN ERP: ID 645 ($2300.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 298 ($985.911) - No aparece en extracto
+[?] SOLO EN ERP: ID 569 ($2545.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 349 ($1164.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 729 ($2013.1) - No aparece en extracto
+[?] SOLO EN ERP: ID 558 ($959.777) - No aparece en extracto
+[?] SOLO EN ERP: ID 352 ($1967.7) - No aparece en extracto
+[?] SOLO EN ERP: ID 355 ($2115.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 463 ($1659.87) - No aparece en extracto
+[?] SOLO EN ERP: ID 497 ($2815.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 845 ($1300.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 365 ($1685.27) - No aparece en extracto
+[?] SOLO EN ERP: ID 742 ($1149.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 367 ($2420.83) - No aparece en extracto
+[?] SOLO EN ERP: ID 419 ($2187.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 553 ($734.134) - No aparece en extracto
+[?] SOLO EN ERP: ID 370 ($1678.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 372 ($2517.58) - No aparece en extracto
+[?] SOLO EN ERP: ID 374 ($1087.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 465 ($947.969) - No aparece en extracto
+[?] SOLO EN ERP: ID 375 ($2335.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 377 ($2498.97) - No aparece en extracto
+[?] SOLO EN ERP: ID 749 ($2197.46) - No aparece en extracto
+[?] SOLO EN ERP: ID 378 ($1009.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 530 ($1018.23) - No aparece en extracto
+[?] SOLO EN ERP: ID 350 ($813.288) - No aparece en extracto
+[?] SOLO EN ERP: ID 380 ($2095.91) - No aparece en extracto
+[?] SOLO EN ERP: ID 383 ($1944.66) - No aparece en extracto
+[?] SOLO EN ERP: ID 384 ($2058.78) - No aparece en extracto
+[?] SOLO EN ERP: ID 865 ($1536.19) - No aparece en extracto
+[?] SOLO EN ERP: ID 445 ($2700.82) - No aparece en extracto
+[?] SOLO EN ERP: ID 387 ($1685.54) - No aparece en extracto
+[?] SOLO EN ERP: ID 389 ($2118.68) - No aparece en extracto
+[?] SOLO EN ERP: ID 873 ($1052.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 392 ($2308.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 644 ($1179.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 394 ($1959.21) - No aparece en extracto
+[?] SOLO EN ERP: ID 395 ($2593.54) - No aparece en extracto
+[?] SOLO EN ERP: ID 779 ($2749.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 535 ($1678) - No aparece en extracto
+[?] SOLO EN ERP: ID 38 ($2368.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 398 ($1967.74) - No aparece en extracto
+[?] SOLO EN ERP: ID 399 ($1937.96) - No aparece en extracto
+[?] SOLO EN ERP: ID 400 ($61838.3) - No aparece en extracto
+[?] SOLO EN ERP: ID 297 ($2716.01) - No aparece en extracto
+[?] SOLO EN ERP: ID 402 ($2331.46) - No aparece en extracto
+[?] SOLO EN ERP: ID 390 ($2239.19) - No aparece en extracto
+[?] SOLO EN ERP: ID 407 ($1562.67) - No aparece en extracto
+[?] SOLO EN ERP: ID 978 ($1092.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 633 ($2251.83) - No aparece en extracto
+[?] SOLO EN ERP: ID 303 ($2094.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 408 ($854.45) - No aparece en extracto
+[?] SOLO EN ERP: ID 313 ($1615.78) - No aparece en extracto
+[?] SOLO EN ERP: ID 410 ($1593.49) - No aparece en extracto
+[?] SOLO EN ERP: ID 690 ($2963.73) - No aparece en extracto
+[?] SOLO EN ERP: ID 283 ($2993.43) - No aparece en extracto
+[?] SOLO EN ERP: ID 454 ($2648.64) - No aparece en extracto
+[?] SOLO EN ERP: ID 80 ($1231.51) - No aparece en extracto
+[?] SOLO EN ERP: ID 495 ($675.468) - No aparece en extracto
+[?] SOLO EN ERP: ID 737 ($2508.17) - No aparece en extracto
+[?] SOLO EN ERP: ID 413 ($1432.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 469 ($1556.12) - No aparece en extracto
+[?] SOLO EN ERP: ID 770 ($1057.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 688 ($2140.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 574 ($2849.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 489 ($2843.02) - No aparece en extracto
+[?] SOLO EN ERP: ID 417 ($1823.59) - No aparece en extracto
+[?] SOLO EN ERP: ID 330 ($1992.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 484 ($2716.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 309 ($2017.77) - No aparece en extracto
+[?] SOLO EN ERP: ID 362 ($1217.26) - No aparece en extracto
+[?] SOLO EN ERP: ID 418 ($2012.13) - No aparece en extracto
+[?] SOLO EN ERP: ID 843 ($2859.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 420 ($2133.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 354 ($1090.75) - No aparece en extracto
+[?] SOLO EN ERP: ID 422 ($876.821) - No aparece en extracto
+[?] SOLO EN ERP: ID 302 ($643.022) - No aparece en extracto
+[?] SOLO EN ERP: ID 459 ($2142.93) - No aparece en extracto
+[?] SOLO EN ERP: ID 424 ($2079.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 510 ($2744.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 425 ($2990.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 507 ($1704.61) - No aparece en extracto
+[?] SOLO EN ERP: ID 427 ($1725.08) - No aparece en extracto
+[?] SOLO EN ERP: ID 139 ($2029.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 513 ($2625.65) - No aparece en extracto
+[?] SOLO EN ERP: ID 428 ($773.652) - No aparece en extracto
+[?] SOLO EN ERP: ID 529 ($1758.93) - No aparece en extracto
+[?] SOLO EN ERP: ID 624 ($2614.94) - No aparece en extracto
+[?] SOLO EN ERP: ID 200 ($93128.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 44 ($1305.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 429 ($2692.55) - No aparece en extracto
+[?] SOLO EN ERP: ID 233 ($2391.88) - No aparece en extracto
+[?] SOLO EN ERP: ID 430 ($585.34) - No aparece en extracto
+[?] SOLO EN ERP: ID 219 ($1767.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 434 ($802.153) - No aparece en extracto
+[?] SOLO EN ERP: ID 435 ($2869.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 839 ($2538.98) - No aparece en extracto
+[?] SOLO EN ERP: ID 499 ($1423.16) - No aparece en extracto
+[?] SOLO EN ERP: ID 437 ($2690.9) - No aparece en extracto
+[?] SOLO EN ERP: ID 409 ($1658.11) - No aparece en extracto
+[?] SOLO EN ERP: ID 438 ($2172.19) - No aparece en extracto
+[?] SOLO EN ERP: ID 440 ($1915.06) - No aparece en extracto
+[?] SOLO EN ERP: ID 442 ($2150.21) - No aparece en extracto
+[?] SOLO EN ERP: ID 543 ($2573.85) - No aparece en extracto
+[?] SOLO EN ERP: ID 54 ($2608.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 443 ($2209.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 937 ($1739.7) - No aparece en extracto
+[?] SOLO EN ERP: ID 613 ($1108.19) - No aparece en extracto
+[?] SOLO EN ERP: ID 444 ($2302.1) - No aparece en extracto
+[?] SOLO EN ERP: ID 449 ($2380.36) - No aparece en extracto
+[?] SOLO EN ERP: ID 452 ($1790.15) - No aparece en extracto
+[?] SOLO EN ERP: ID 664 ($991.47) - No aparece en extracto
+[?] SOLO EN ERP: ID 457 ($2580.93) - No aparece en extracto
+[?] SOLO EN ERP: ID 475 ($2973.6) - No aparece en extracto
+[?] SOLO EN ERP: ID 990 ($2657.77) - No aparece en extracto
+[?] SOLO EN ERP: ID 498 ($1411.81) - No aparece en extracto
+[?] SOLO EN ERP: ID 458 ($1758.37) - No aparece en extracto
+[?] SOLO EN ERP: ID 460 ($2261.25) - No aparece en extracto
+[?] SOLO EN ERP: ID 470 ($2561.42) - No aparece en extracto
+[?] SOLO EN ERP: ID 472 ($835.821) - No aparece en extracto
+[?] SOLO EN ERP: ID 483 ($1494.22) - No aparece en extracto
+[?] SOLO EN ERP: ID 599 ($2383.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 487 ($2645.99) - No aparece en extracto
+[?] SOLO EN ERP: ID 875 ($2845.57) - No aparece en extracto
+[?] SOLO EN ERP: ID 629 ($1616.21) - No aparece en extracto
+[?] SOLO EN ERP: ID 488 ($2860.09) - No aparece en extracto
+[?] SOLO EN ERP: ID 494 ($1738.62) - No aparece en extracto
+[?] SOLO EN ERP: ID 180 ($2881.53) - No aparece en extracto
+[?] SOLO EN ERP: ID 102 ($2716.69) - No aparece en extracto
+[?] SOLO EN ERP: ID 503 ($2498.23) - No aparece en extracto
+[?] SOLO EN ERP: ID 679 ($1300.81) - No aparece en extracto
+[?] SOLO EN ERP: ID 504 ($1679.26) - No aparece en extracto
+[?] SOLO EN ERP: ID 708 ($731.683) - No aparece en extracto
+[?] SOLO EN ERP: ID 505 ($2714.03) - No aparece en extracto
+[?] SOLO EN ERP: ID 570 ($1196.79) - No aparece en extracto
+[?] SOLO EN ERP: ID 82 ($974.884) - No aparece en extracto
+[?] SOLO EN ERP: ID 508 ($1689.32) - No aparece en extracto
+[?] SOLO EN ERP: ID 590 ($2509.31) - No aparece en extracto
+[?] SOLO EN ERP: ID 509 ($2588.74) - No aparece en extracto
+[?] SOLO EN ERP: ID 229 ($1227.44) - No aparece en extracto
+[?] SOLO EN ERP: ID 602 ($2921.92) - No aparece en extracto
+[?] SOLO EN ERP: ID 514 ($739.508) - No aparece en extracto
+[?] SOLO EN ERP: ID 279 ($1587.83) - No aparece en extracto
+[?] SOLO EN ERP: ID 515 ($2823.41) - No aparece en extracto
+[?] SOLO EN ERP: ID 632 ($1092.4) - No aparece en extracto
+[?] SOLO EN ERP: ID 45 ($1462.35) - No aparece en extracto
+[?] SOLO EN ERP: ID 300 ($81428.5) - No aparece en extracto
+[?] SOLO EN ERP: ID 739 ($1529.29) - No aparece en extracto
+[?] SOLO EN ERP: ID 527 ($1961.8) - No aparece en extracto
+[?] SOLO EN ERP: ID 532 ($2811.71) - No aparece en extracto
+[?] SOLO EN ERP: ID 539 ($2018.81) - No aparece en extracto
